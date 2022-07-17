@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/antropova/static/css/main.365dea40.css",
+    "main.css": "/antropova/static/css/main.417b5603.css",
     "main.js": "/antropova/static/js/main.ea429c62.js",
     "static/media/6.jpg": "/antropova/static/media/6.c450be618e149b6d64d2.jpg",
     "static/media/1.jpg": "/antropova/static/media/1.9e61225507cac63fe717.jpg",
@@ -24,11 +24,11 @@
     "static/media/Diner-Skinny.ttf": "/antropova/static/media/Diner-Skinny.a88228dbb94ebf17d861.ttf",
     "static/media/Diner-Skinny.woff": "/antropova/static/media/Diner-Skinny.b5b41e68b7899f80587a.woff",
     "index.html": "/antropova/index.html",
-    "main.365dea40.css.map": "/antropova/static/css/main.365dea40.css.map",
+    "main.417b5603.css.map": "/antropova/static/css/main.417b5603.css.map",
     "main.ea429c62.js.map": "/antropova/static/js/main.ea429c62.js.map"
   },
   "entrypoints": [
-    "static/css/main.365dea40.css",
+    "static/css/main.417b5603.css",
     "static/js/main.ea429c62.js"
   ]
 }
