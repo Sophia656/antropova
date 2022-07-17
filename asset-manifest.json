@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/antropova/static/css/main.365dea40.css",
+    "main.js": "/antropova/static/js/main.ea429c62.js",
+    "static/media/6.jpg": "/antropova/static/media/6.c450be618e149b6d64d2.jpg",
+    "static/media/1.jpg": "/antropova/static/media/1.9e61225507cac63fe717.jpg",
+    "static/media/2.jpg": "/antropova/static/media/2.55270855195aff28aa00.jpg",
+    "static/media/9.jpg": "/antropova/static/media/9.55270855195aff28aa00.jpg",
+    "static/media/4.jpg": "/antropova/static/media/4.fe738a59b12720d019ce.jpg",
+    "static/media/3.jpg": "/antropova/static/media/3.ee6fd8b10ef6cbb0b50b.jpg",
+    "static/media/7.jpg": "/antropova/static/media/7.05d344b26174b552269f.jpg",
+    "static/media/5.jpg": "/antropova/static/media/5.a4c4cf7f49332bc2980d.jpg",
+    "static/media/10.jpg": "/antropova/static/media/10.e788562b221998424a95.jpg",
+    "static/media/8.jpg": "/antropova/static/media/8.bc76821fc01d3d98da48.jpg",
+    "static/media/Reey-Regular.eot": "/antropova/static/media/Reey-Regular.50c06f516b00de4b3157.eot",
+    "static/media/Reey-Regular.ttf": "/antropova/static/media/Reey-Regular.6de5340ac90d88f0993f.ttf",
+    "static/media/Reey-Regular.svg": "/antropova/static/media/Reey-Regular.c24922b249304997960c.svg",
+    "static/media/Antobe-7BoW4.svg": "/antropova/static/media/Antobe-7BoW4.b322341e65116646a636.svg",
+    "static/media/Reey-Regular.woff": "/antropova/static/media/Reey-Regular.27d9f0d545c2f2e3d8af.woff",
+    "static/media/Diner-Skinny.svg": "/antropova/static/media/Diner-Skinny.615b011e6579eb29df00.svg",
+    "static/media/Antobe-7BoW4.eot": "/antropova/static/media/Antobe-7BoW4.d8bdc22c4a71b3739e30.eot",
+    "static/media/Antobe-7BoW4.ttf": "/antropova/static/media/Antobe-7BoW4.f29550a8593fe6000349.ttf",
+    "static/media/Antobe-7BoW4.woff": "/antropova/static/media/Antobe-7BoW4.f3bb778b23968610b55c.woff",
+    "static/media/Diner-Skinny.ttf": "/antropova/static/media/Diner-Skinny.a88228dbb94ebf17d861.ttf",
+    "static/media/Diner-Skinny.woff": "/antropova/static/media/Diner-Skinny.b5b41e68b7899f80587a.woff",
+    "index.html": "/antropova/index.html",
+    "main.365dea40.css.map": "/antropova/static/css/main.365dea40.css.map",
+    "main.ea429c62.js.map": "/antropova/static/js/main.ea429c62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.365dea40.css",
+    "static/js/main.ea429c62.js"
+  ]
+}
