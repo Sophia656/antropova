@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'Conv_Antobe-7BoW4';
+	src: url('fonts/Antobe-7BoW4.eot');
+	src: local('â˜º'), url('fonts/Antobe-7BoW4.woff') format('woff'), url('fonts/Antobe-7BoW4.ttf') format('truetype'), url('fonts/Antobe-7BoW4.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_Reey-Regular';
+	src: url('fonts/Reey-Regular.eot');
+	src: local('â˜º'), url('fonts/Reey-Regular.woff') format('woff'), url('fonts/Reey-Regular.ttf') format('truetype'), url('fonts/Reey-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_Diner-Skinny';
+	/* src: url('fonts/Diner-Skinny.eot'); */
+	src: local('â˜º'), url('fonts/Diner-Skinny.woff') format('woff'), url('fonts/Diner-Skinny.ttf') format('truetype'), url('fonts/Diner-Skinny.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  /* font-family: 'Conv_Antobe-7BoW4'; */
+  font-family: 'Conv_Reey-Regular';
+  /* font-family: 'Conv_Diner-Skinny'; */
+  font-size: 22px;
+  background: #605a55;
+  background: linear-gradient(217deg,#605a55 0.71%, #605a550c 75.71%),
+            linear-gradient(127deg,#605a55 0.71%, #26292b17 75.71%),
+            linear-gradient(29deg,#605a55 0.71%, #26292b17 75.71%),
+            linear-gradient(336deg,#605a55 0.71%, #26292b17 75.71%);
+  /* background: #a4a09d26; */
+  color: #26292B;
+}
+a {
+  color: #26292B;
+  text-decoration: none;
+}

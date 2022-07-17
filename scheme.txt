@@ -1,0 +1,39 @@
+>>index.js
+>>App
+    [store]
+        >>index.js
+        [reducers]
+            >>index.js
+            [documental_reducers]
+                >>all_images_of_documental_reducer
+                >>slider_of_documental_reducer
+                >>image_of_documental_reducer
+            [hasard_reducers]
+                >>all_images_of_hasard_reducer
+                >>slider_of_hasard_reducer
+                >>image_of_hasard_reducer
+        [actions]
+            >>index.js
+            [documental_actions]
+                >>all_images_of_documental_action
+                >>slider_of_documental_action
+                >>image_of_documental_action
+            [hasard_actions]
+                >>all_images_of_hasard_action
+                >>slider_of_hasard_action
+                >>image_of_hasard_action
+    [pages]
+        >>[home page]
+        >>[documental page]
+        >>[hasard page]
+    [components]
+        [navbar]
+            >>navbar_for_desc
+            >>navbar_for_mob
+        [utils]
+            >>[cover]
+            >>[slider]
+            >>[modal]
+        [hooks]
+    >>loader
+    >>main
